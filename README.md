@@ -25,9 +25,9 @@
 
 # Hi 👋 I'm Omkar Patange
 
-### AWS & DevOps Engineer
+### AWS & DevOps Engineer | Data Analyst
 Name     : Omkar Patange
-Role     : Cloud & DevOps Enthusiast
+Role     : Cloud & DevOps Enthusiast | Data Analyst
 Learning : Cloud Computing @ Fortune Cloud
 Status   : DevOps in Progress 🚧
 Motto    : "Always learning, always building"
