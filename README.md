@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Omkar%20Patange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Omkar%20Patange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20Data%20Analyst%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
 ### ☁️ Data Analyst | Python | Cloud & DevOps | AWS | Linux | Automation
@@ -35,7 +35,7 @@ Motto    : "Always learning, always building"
 
 - 🎓 *Cloud Computing* student at *Fortune Cloud*
 - ☁️ Completed *Linux & AWS* — currently deep in *DevOps*
-- 🔧 Hands-on with AWS services, IaC (Terraform), and system administration
+- 🔧 Hands-on with AWS services, IaC (Terraform), and system administration, Data Analysis
 - 💡 Passionate about *Cloud Architecture, **DevOps pipelines* & *Automation*
 - 🌱 Currently exploring *Docker, **CI/CD, and **Kubernetes*
 - - 📧 Reach me at **omkarpatange55@gmail.com**
