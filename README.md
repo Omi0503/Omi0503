@@ -35,8 +35,9 @@ Motto    : "Always learning, always building"
 
 - 🎓 *Cloud Computing* student at *Fortune Cloud*
 - ☁️ Completed *Linux & AWS* — currently deep in *DevOps*
+- 🔧 Hands-on with Data Analysis, data visualization, and creating interactive dashboards using Power BI. 
 - 🔧 Hands-on with AWS services, IaC (Terraform), and system administration, Data Analysis
-- 💡 Passionate about *Cloud Architecture, **DevOps pipelines* & *Automation*
+- 💡 Passionate about Data Analyst, Cloud Architecture, DevOps & Automation
 - 🌱 Currently exploring *Docker, **CI/CD, and **Kubernetes*
 - - 📧 Reach me at **omkarpatange5301@gmail.com**
 
@@ -66,7 +67,7 @@ Motto    : "Always learning, always building"
 
 ## 📚 Currently Learning
 
-`CI/CD Pipelines` · `EC2 & Auto Scaling` · `VPC & Networking` · `Shell Scripting`
+`Power BI` ·`CI/CD Pipelines` · `EC2 & Auto Scaling` · `VPC & Networking` · `Shell Scripting`
 `Jenkins` · `IAM & Cloud Security` · `Apache Tomcat` · `RDS` · `Deployment Automation`
 
 ---
