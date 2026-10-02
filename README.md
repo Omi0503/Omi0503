@@ -6,7 +6,7 @@
 
 ### ☁️ Data Analyst | Python | Cloud & DevOps | AWS | Linux | Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student+%F0%9F%8E%93;AWS+%7C+Linux+%7C+DevOps+in+Progress+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%AD%90" alt="Typing SVG" />
+
 
 </div>
 
@@ -38,7 +38,7 @@ Motto    : "Always learning, always building"
 - 🔧 Hands-on with AWS services, IaC (Terraform), and system administration, Data Analysis
 - 💡 Passionate about *Cloud Architecture, **DevOps pipelines* & *Automation*
 - 🌱 Currently exploring *Docker, **CI/CD, and **Kubernetes*
-- - 📧 Reach me at **omkarpatange55@gmail.com**
+- - 📧 Reach me at **omkarpatange5301@gmail.com**
 
 
 ---
@@ -76,4 +76,4 @@ Motto    : "Always learning, always building"
 
 [![GitHub](https://img.shields.io/badge/GitHub-Omi0503-181717?style=for-the-badge&logo=github)](https://github.com/Omi0503)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omkar%20Patange-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omkar-patange-87ba65171/)
-[![Email](https://img.shields.io/badge/Email-omkarpatange55%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarpatange55@gmail.com)
+[![Email](https://img.shields.io/badge/Email-omkarpatange5301%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarpatange5301@gmail.com)
